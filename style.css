@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html {
+    margin: 0;
+}
+
+#gameArea {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+}
+
+.titel {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 2px 2px aqua;
+}
